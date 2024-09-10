@@ -9,3 +9,8 @@ Estruturas de Repetição
   while
   do..while
   for
+
+
+  Comando para baixar a biblioteca prompt-sync
+
+  npm install prompt-sync
