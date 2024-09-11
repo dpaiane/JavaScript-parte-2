@@ -6,11 +6,9 @@ Estruturas de condição
   switth ...case
 
 Estruturas de Repetição
-  while
-  do..while
+  while -
+  do..while -
   for
 
 
-  Comando para baixar a biblioteca prompt-sync
-
-  npm install prompt-sync
+  Comando para baixar a biblioteca prompt-sync "npm install prompt-sync"
